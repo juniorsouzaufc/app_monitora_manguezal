@@ -14,10 +14,11 @@
       "Repository": "CRAN",
       "Version": "1.8.0"
     },
-    "ggplot2": {
+    "dplyr": {
       "Source": "Repository",
       "Repository": "CRAN",
-      "Version": "3.5.0"
+      "Version": "1.1.4"
     }
   }
 }
+
